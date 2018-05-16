@@ -1,5 +1,8 @@
 /home/jake-unchained/Documents/leanstack/skeleton-web-services/src/main/java/org/example/org/example/ws/service/GreetingServiceBean.java
+/home/jake-unchained/Documents/leanstack/skeleton-web-services/src/main/java/org/example/org/example/ws/service/EmailServiceBean.java
+/home/jake-unchained/Documents/leanstack/skeleton-web-services/src/main/java/org/example/org/example/ws/org/example/ws/util/AsyncResponse.java
 /home/jake-unchained/Documents/leanstack/skeleton-web-services/src/main/java/org/example/org/example/ws/web/api/GreetingController.java
+/home/jake-unchained/Documents/leanstack/skeleton-web-services/src/main/java/org/example/org/example/ws/service/EmailService.java
 /home/jake-unchained/Documents/leanstack/skeleton-web-services/src/main/java/org/example/org/example/ws/org/example/ws/repository/GreetingRepository.java
 /home/jake-unchained/Documents/leanstack/skeleton-web-services/src/main/java/org/example/org/example/ws/org/example/ws/batch/GreetingBatchBean.java
 /home/jake-unchained/Documents/leanstack/skeleton-web-services/src/main/java/org/example/org/example/ws/service/GreetingService.java
